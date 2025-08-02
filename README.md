@@ -32,5 +32,3 @@ python bio_calc_visualiser.py
   - Interactive GUI
   - Advanced methods (e.g., chromatography, electrophoresis)
   - Exportable reports and figures
-
-Let me know if you want to organize this into separate modules or add badge formatting as your project grows!
