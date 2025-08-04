@@ -19,7 +19,7 @@ A beginner-friendly Python tool for common analytical and bioanalytical calculat
 ## Getting Started
 
 ```bash
-python bio_calc_visualiser.py
+python bio_calc_visualiser.ipynb
 ```
 1. Choose the calculation type.
 2. Enter the required values when prompted.
